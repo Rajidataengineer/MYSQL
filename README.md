@@ -28,6 +28,7 @@ Aggregations and GROUP BY / HAVING
 Subqueries and CTEs
 Views
 Constraints and keys (Primary, Foreign, Unique)
+
 3 . Advanced
 Indexes and query optimization
 Stored procedures, functions, and triggers
