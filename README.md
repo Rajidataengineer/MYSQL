@@ -17,21 +17,36 @@ Practice with hands-on projects and datasets
 🗂️ Topics Covered
 
 1. Basics
+   
 Installing and setting up MySQL
+
 Databases, tables, schemas
+
 Data types
+
 CRUD operations (SELECT, INSERT, UPDATE, DELETE)
+
 Filtering, sorting, and limiting results
+
 2. Intermediate
+
 Joins (INNER, LEFT, RIGHT, FULL, SELF)
+
 Aggregations and GROUP BY / HAVING
+
 Subqueries and CTEs
+
 Views
+
 Constraints and keys (Primary, Foreign, Unique)
 
 3 . Advanced
+
 Indexes and query optimization
+
 Stored procedures, functions, and triggers
+
 Transactions and ACID properties
+
 Window functions
 Query execution plans (EXPLAIN)
