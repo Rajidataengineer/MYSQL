@@ -25,5 +25,5 @@ show tables;
 * fetch all columns stored inside the specific table */
 SELECT * from employees;
 SELECT * from departments;
---
+
 
